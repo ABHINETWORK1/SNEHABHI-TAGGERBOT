@@ -3,17 +3,18 @@
   "logo":"https://telegra.ph/file/571f7d4c22a126cfe99c3.png",
   "description": "𝚂𝙽𝙴𝙷𝙰𝙱𝙷𝙸 𝚄𝚂𝙴𝚁𝚃𝙰𝙶𝙶𝙴𝚁 𝙱𝙾𝚃 𝙱𝚈 @SNEHU_IS_MINE.",
   "env": {
-    "TOKEN": {
-      "description": 𝙱𝙾𝚃 𝚃𝙾𝙺𝙴𝙽 𝙱𝚈 @BOTFATHER 𝙵𝙾𝚁 𝚂𝙽𝙴𝙷𝙰𝙱𝙷𝙸 𝚄𝚂𝙴𝚁𝚃𝙰𝙶𝙶𝙴𝚁 𝙱𝙾𝚃
+    "𝙱𝙾𝚃 𝚃𝙾𝙺𝙴𝙽": {
+      "description": "𝙱𝙾𝚃 𝚃𝙾𝙺𝙴𝙽 𝙱𝚈 @BOTFATHER 𝙵𝙾𝚁 𝚂𝙽𝙴𝙷𝙰𝙱𝙷𝙸 𝚄𝚂𝙴𝚁𝚃𝙰𝙶𝙶𝙴𝚁 𝙱𝙾𝚃."
      },
-      "API_ID": {
-        "description":
+      "𝙰𝙿𝙸 𝙸𝙳": {
+        "description": "𝙰𝙿𝙸 𝙸𝙳 𝙵𝙾𝚁 𝚂𝙽𝙴𝙷𝙰𝙱𝙷𝙸 𝚄𝚂𝙴𝚁𝚃𝙰𝙶𝙶𝙴𝚁 𝙱𝙾𝚃."
      },
-      "API_HASH": {
-        "description":
+      "𝙰𝙿𝙸 𝙷𝙰𝚂𝙷": {
+        "description": "𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 𝙱𝚈 𝙵𝙾𝚁 𝚂𝙽𝙴𝙷𝙰𝙱𝙷𝙸 𝚄𝚂𝙴𝚁𝚃𝙰𝙶𝙶𝙴𝚁 𝙱𝙾𝚃."
      }
    },
      "buildpacks": [{
        "url": "https://github.com/heroku/heroku-buildpack-python.git"
         }]
     }
+     
