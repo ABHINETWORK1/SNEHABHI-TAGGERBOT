@@ -1,0 +1,19 @@
+{
+  "name": "𝚂𝙽𝙴𝙷𝙰𝙱𝙷𝙸 𝚄𝚂𝙴𝚁𝚃𝙰𝙶𝙶𝙴𝚁 𝙱𝙾𝚃",
+  "logo":"https://telegra.ph/file/571f7d4c22a126cfe99c3.png",
+  "description": "𝚂𝙽𝙴𝙷𝙰𝙱𝙷𝙸 𝚄𝚂𝙴𝚁𝚃𝙰𝙶𝙶𝙴𝚁 𝙱𝙾𝚃 𝙱𝚈 @SNEHU_IS_MINE.",
+  "env": {
+    "TOKEN": {
+      "description": 𝙱𝙾𝚃 𝚃𝙾𝙺𝙴𝙽 𝙱𝚈 @BOTFATHER 𝙵𝙾𝚁 𝚂𝙽𝙴𝙷𝙰𝙱𝙷𝙸 𝚄𝚂𝙴𝚁𝚃𝙰𝙶𝙶𝙴𝚁 𝙱𝙾𝚃
+     },
+      "API_ID": {
+        "description":
+     },
+      "API_HASH": {
+        "description":
+     }
+   },
+     "buildpacks": [{
+       "url": "https://github.com/heroku/heroku-buildpack-python.git"
+        }]
+    }
